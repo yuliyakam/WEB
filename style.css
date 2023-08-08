@@ -568,6 +568,7 @@
     background-repeat: no-repeat;
     cursor: pointer;
     transition: color .4s;
+    min-height: 55px;
 }
 
 .before-footer-right-btn:hover {
@@ -702,7 +703,7 @@
     }
 
     .before-footer-input-btn {
-        min-height: 59px;
+        min-height: 64px;
         margin-bottom: 37%;
     }
 
